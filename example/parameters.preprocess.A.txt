@@ -1,0 +1,4 @@
+data_info_file	data_info_mESC_E11_5.tsv
+query_region_file	mESC_region_for_train.bed
+DMR_file	DMR_CG_mESC_E11_5_ext150.bed
+num_process	1
